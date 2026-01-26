@@ -6,6 +6,7 @@
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome)
 [![Github](https://img.shields.io/badge/Awesome--State--In--World--Models-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hit-perfect/Awesome-State-In-World-Models)
+[![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](paper/Memory_Survey.pdf)
 ![Visitors](https://komarev.com/ghpvc/?username=hit-perfect&repo=Awesome-State-In-World-Models&label=Visitors&color=0e75b6&style=for-the-badge)
 
 <!-- 
@@ -32,6 +33,8 @@ We organize the survey into several key sections:
 3. <u>Dynamics Categorization:</u> Causal Architecture Reformulation and Causal Knowledge Integration.
 4. <u>Evaluation:</u> World-simulation evaluation centers on three axes: Quality, Persistence, and Causality.
 5. <u>Future Directions:</u> World simulation is a paradigm shift that hinges on Persistence and Causality.
+
+For more details, please refer to our **[paper](paper/Memory_Survey.pdf)**.
 
 ## 📈 Citation
 
