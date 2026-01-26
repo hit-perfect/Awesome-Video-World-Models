@@ -6,7 +6,7 @@
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome)
 [![Github](https://img.shields.io/badge/Awesome--State--In--World--Models-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hit-perfect/Awesome-State-In-World-Models)
-![Visitors](https://komarev.com/ghpvc/?username=hit-perfect&repo=Awesome-State-In-World-Models&label=Hello,%20Visitor%20&color=yellow&style=social)
+![Visitors](https://komarev.com/ghpvc/?username=hit-perfect&repo=Awesome-State-In-World-Models&label=Visitors&color=0e75b6&style=for-the-badge)
 
 <!-- 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/XXXX.XXXXX)
