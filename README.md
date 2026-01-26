@@ -55,36 +55,36 @@ If you find this survey helpful, please cite our work:
 - [🎉 News](#-news)
 - [📖 Contents](#-contents)
 - [📚 Paper List](#-paper-list)
-  - [State](#state)
-    - [Implicit State - Memory Mechanism](#implicit-state---memory-mechanism)
+  - [1. State](#1-state)
+    - [1.1 Implicit State - Memory Mechanism](#11-implicit-state---memory-mechanism)
       - [Compression](#compression)
       - [Retrieval](#retrieval)
         - [External](#external)
         - [Internal](#internal)
       - [Consolidation](#consolidation)
-    - [Explicit State](#explicit-state)
+    - [1.2 Explicit State](#12-explicit-state)
       - [Coupled States](#coupled-states)
         - [Hidden-Variable](#hidden-variable)
         - [Parametric](#parametric)
       - [Decoupled States](#decoupled-states)
         - [Semantics-oriented](#semantics-oriented)
         - [Geometry-oriented](#geometry-oriented)
-  - [Dynamics](#dynamics)
-    - [Causal Architecture Reformulation](#causal-architecture-reformulation)
-    - [Causal Knowledge Integration](#causal-knowledge-integration)
-  - [Evaluation](#evaluation)
-    - [Quality](#quality)
-    - [Persistence](#persistence)
-    - [Causality](#causality)
+  - [2. Dynamics](#2-dynamics)
+    - [2.1 Causal Architecture Reformulation](#21-causal-architecture-reformulation)
+    - [2.2 Causal Knowledge Integration](#22-causal-knowledge-integration)
+  - [3. Evaluation](#3-evaluation)
+    - [3.1 Quality](#31-quality)
+    - [3.2 Persistence](#32-persistence)
+    - [3.3 Causality](#33-causality)
 - [🌟 Acknowledgment](#-acknowledgment)
 - [✨ Star History](#-star-history)
 
 
 ## 📚 Paper List
 
-### State
+### 1. State
 
-#### Implicit State - Memory Mechanism
+#### 1.1 Implicit State - Memory Mechanism
 
 <p align="center">
    <img src="figs/Implicit_State.png" alt="Overview of our Survey" style="width: 100%;">
@@ -148,10 +148,10 @@ If you find this survey helpful, please cite our work:
 | 2025-08 | `WorldWeaver` | WorldWeaver: Generating Long-horizon Video Worlds via Rich Perception | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.15720) | - |
 | 2025-12 | `EgoLCD` | EgoLCD: Egocentric Video Generation with Long Context Diffusion | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.04515) | - |
 
-#### Explicit State
+#### 1.2 Explicit State
 
 <p align="center">
-   <img src="figs/Explicit_State.png" alt="Overview of our Survey" style="width: 50%;">
+   <img src="figs/Explicit_State.png" alt="Overview of our Survey" style="width: 60%;">
 </p>
 
 ##### Coupled States
@@ -203,19 +203,19 @@ If you find this survey helpful, please cite our work:
 | 2025-10 | `EvoWorld` | EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.01183) | - |
 
 
-### Dynamics
+### 2. Dynamics
 
-#### Causal Architecture Reformulation
+#### 2.1 Causal Architecture Reformulation
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
 | 2023-09 | `LVD` | LLM-grounded Video Diffusion Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2309.17444) | - |
+| 2023-11 | `ART-V` | ART-V: Auto-regressive Text-to-Video Generation with Diffusion Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2311.18834) | - |
 | 2023-12 | `VideoPoet` | VideoPoet: A Large Language Model for Zero-Shot Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2312.14125) | - |
-| 2024 | `ART-V` | ART-V: Auto-regressive Text-to-Video Generation with Diffusion Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2311.18834) | - |
-| 2024 | `Diffusion Forcing` | Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.01392) | - |
+| 2024-07 | `Diffusion Forcing` | Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.01392) | - |
+| 2024-11 | `CausVid` | From Slow Bidirectional to Fast Autoregressive Video Diffusion Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.07306) | - |
+| 2024-12 | `AR-Diffusion` | AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.09000) | - |
 | 2024-12 | `NOVA` | Autoregressive Video Generation without Vector Quantization | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.14169) | - |
-| 2025 | `AR-Diffusion` | AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.09000) | - |
-| 2025 | `CausVid` | From Slow Bidirectional to Fast Autoregressive Video Diffusion Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.07306) | - |
 | 2025-05 | `MAGI-1` | MAGI-1: Autoregressive Video Generation at Scale | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.13211) | - |
 | 2025-05 | `Video-GPT` | Video-GPT via Next Clip Diffusion | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.12489) | - |
 | 2025-06 | `VideoMAR` | VideoMAR: Autoregressive Video Generation with Continuous Tokens | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.14168) | - |
@@ -226,7 +226,7 @@ If you find this survey helpful, please cite our work:
 | 2025-10 | `Self-Forcing++` | Self-Forcing++: Towards Minute-Scale High-Quality Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.02283) | - |
 | 2025-12 | `Resampling Forcing` | End-to-End Training for Autoregressive Video Diffusion via Self-Resampling | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.15702) | - |
 
-#### Causal Knowledge Integration
+#### 2.2 Causal Knowledge Integration
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
@@ -240,35 +240,35 @@ If you find this survey helpful, please cite our work:
 | 2025-12 | `SemanticGen` | SemanticGen: Video Generation in Semantic Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.20619) | - |
 
 
-### Evaluation
+### 3. Evaluation
 
-#### Quality
+#### 3.1 Quality
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-| 2018 | `FVD` | Towards Accurate Generative Models of Video: A New Metric & Challenges | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1812.01717) | - |
+| 2018-12 | `FVD` | Towards Accurate Generative Models of Video: A New Metric & Challenges | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1812.01717) | - |
 | 2023-11 | `VBench` | VBench: Comprehensive Benchmark Suite for Video Generative Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2311.17982) | - |
 | 2024-07 | `FVMD` | Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.16124) | - |
 | 2024-11 | `VBench++` | VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.13503) | - |
 | 2025-02 | `WorldModelBench` | WorldModelBench: Judging Video Generation Models as World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.20694) | - |
 
-#### Persistence
+#### 3.2 Persistence
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-| 2017 | `FID` | GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1706.08500) | - |
+| 2017-06 | `FID` | GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1706.08500) | - |
 | 2022-10 | `Memory Maze` | Evaluating Long-Term Memory in 3D Mazes | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2210.13383) | - |
 | 2025-08 | `World Consistency Score` | World Consistency Score: A Unified Metric for Video Generation Quality | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.00144) | - |
 | 2025-11 | `VR-Bench` | Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.15065) | - |
 
-#### Causality
+#### 3.3 Causality
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-| 2020 | `RLBench` | RLBench: The Robot Learning Benchmark & Learning Environment | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1909.12271) | - |
-| 2022 | `CALVIN` | CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2112.03227) | - |
+| 2019-09 | `RLBench` | RLBench: The Robot Learning Benchmark & Learning Environment | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1909.12271) | - |
+| 2021-12 | `CALVIN` | CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2112.03227) | - |
 | 2024-06 | `ChronoMagic-Bench` | ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.18522) | - |
-| 2025 | `VideoWorld` | VideoWorld: Exploring Knowledge Learning from Unlabeled Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.06450) | - |
+| 2024-07 | `VideoWorld` | VideoWorld: Exploring Knowledge Learning from Unlabeled Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.06450) | - |
 | 2025-01 | `Physics-IQ` | Do Generative Video Models Understand Physical Principles? | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.09038) | - |
 | 2025-10 | `World-in-World` | World-in-World: World Models in a Closed-Loop World | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.18135) | - |
 
