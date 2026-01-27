@@ -2,12 +2,21 @@
 
 <!-- <img src="figs/survey_logo.png" style="width: 70%;"/> -->
 
-## A Mechanistic View on Video Generation as World Models: State and Dynamics
+# 😎A Mechanistic View on Video Generation as World Models: State and Dynamics😎
+
+Luozhou Wang<sup>1*</sup>, Zhifei Chen<sup>1*</sup>, Yihua Du<sup>1</sup>, Dongyu Yan<sup>1</sup>, Wenhang Ge<sup>1</sup>, Guibao Shen<sup>1</sup>, 
+
+Xinli Xu<sup>1</sup>, Leyi Wu<sup>1</sup>, Man Chen<sup>1</sup>, Tianshuo Xu<sup>1</sup>, Peiran Ren<sup>2</sup>, 
+
+Xin Tao<sup>3</sup>, Pengfei Wan<sup>3</sup>, Ying-Cong Chen<sup>1†</sup>
+
+<sup>1</sup>Hong Kong University of Science and Technology (Guangzhou) &nbsp;&nbsp; <sup>2</sup>Tongji University &nbsp;&nbsp; <sup>3</sup>Kling Team, Kuaishou Technology
+
+<sup>*</sup>Equal Contribution &nbsp;&nbsp; <sup>†</sup>Corresponding Author
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome)
 [![Github](https://img.shields.io/badge/Awesome--Video--World--Models-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hit-perfect/Awesome-Video-World-Models)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.17067-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.17067)
-<!-- [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](paper/Memory_Survey.pdf) -->
 [![HF Papers](https://img.shields.io/badge/HF--Paper-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2601.17067)
 ![Visitors](https://komarev.com/ghpvc/?username=hit-perfect&repo=Awesome-Video-World-Models&label=Visitors&color=0e75b6&style=for-the-badge)
 
