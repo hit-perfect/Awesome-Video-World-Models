@@ -39,14 +39,20 @@ For more details, please refer to our **[paper](https://arxiv.org/abs/2601.17067
 If you find this survey helpful, please cite our work:
 
 ```bibtex
-@article{wang2026mechanistic,
-  title={A Mechanistic View on Video Generation as World Models: State and Dynamics},
-  author={Wang, Luozhou and Chen, Zhifei and Du, Yihua and Yan, Dongyu and Ge, Wenhang and Shen, Guibao and Xu, Xinli and Wu, Leyi and Chen, Man and Xu, Tianshuo and Ren, Peiran and Tao, Xin and Wan, Pengfei and Chen, Ying-Cong},
-  year={2026},
+@misc{Wang2026MechanisticVideoWorldModels,
+  title         = {A Mechanistic View on Video Generation as World Models: State and Dynamics},
+  author        = {Wang, Luozhou and Chen, Zhifei and Du, Yihua and Yan, Dongyu and Ge, Wenhang and Shen, Guibao and Xu, Xinli and Wu, Leyi and Chen, Man and Xu, Tianshuo and Ren, Peiran and Tao, Xin and Wan, Pengfei and Chen, Ying-Cong},
+  year          = {2026},
+  month         = jan,
+  eprint        = {2601.17067},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2601.17067}
 }
 ```
 
 ## 🎉 News
+- **[2026-01-27]** 🔥 We release [our paper](https://arxiv.org/abs/2601.17067) "A Mechanistic View on Video Generation as World Models: State and Dynamics"!
 - **[2026-01-26]** 🔥 We are excited to introduce a comprehensive collection of papers and projects on video generation as world models with a mechanistic view on state and dynamics!
 
 ## 📖 Contents
