@@ -8,8 +8,8 @@
 [![Github](https://img.shields.io/badge/Awesome--State--In--World--Models-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hit-perfect/Awesome-State-In-World-Models)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.17067-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.17067)
 <!-- [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](paper/Memory_Survey.pdf) -->
+[![HF Papers](https://img.shields.io/badge/HF--Paper-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2601.17067)
 ![Visitors](https://komarev.com/ghpvc/?username=hit-perfect&repo=Awesome-State-In-World-Models&label=Visitors&color=0e75b6&style=for-the-badge)
-<!-- [![HF Papers](https://img.shields.io/badge/HF--Paper-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/XXXX.XXXXX) -->
 
 
 </div>
