@@ -6,13 +6,11 @@
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome)
 [![Github](https://img.shields.io/badge/Awesome--State--In--World--Models-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hit-perfect/Awesome-State-In-World-Models)
-[![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](paper/Memory_Survey.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.17067-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.17067)
+<!-- [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](paper/Memory_Survey.pdf) -->
 ![Visitors](https://komarev.com/ghpvc/?username=hit-perfect&repo=Awesome-State-In-World-Models&label=Visitors&color=0e75b6&style=for-the-badge)
+<!-- [![HF Papers](https://img.shields.io/badge/HF--Paper-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/XXXX.XXXXX) -->
 
-<!-- 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/XXXX.XXXXX)
-[![HF Papers](https://img.shields.io/badge/HF--Paper-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/XXXX.XXXXX)
--->
 
 </div>
 
@@ -34,7 +32,7 @@ We organize the survey into several key sections:
 4. <u>Evaluation:</u> World-simulation evaluation centers on three axes: Quality, Persistence, and Causality.
 5. <u>Future Directions:</u> World simulation is a paradigm shift that hinges on Persistence and Causality.
 
-For more details, please refer to our **[paper](paper/Memory_Survey.pdf)**.
+For more details, please refer to our **[paper](https://arxiv.org/abs/2601.17067)**.
 
 ## 📈 Citation
 
@@ -128,18 +126,17 @@ If you find this survey helpful, please cite our work:
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-| 2025-04 | `RAGME` | RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.06672) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-04 | `WorldMem` | WorldMem: Long-term Consistent World Simulation with Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.12369) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-05 | `VRAG` | Learning World Models for Interactive Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.21996) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-06 | `Context-as-Memory` | Context as Memory: Scene-consistent Interactive Long Video Generation with Memory Retrieval | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.03141) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-08 | `Corgi` | Corgi: Cached Memory Guided Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.16078) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-09 | `MotionRAG` | MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.26391) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-10 | `Pack and Force` | Pack and Force Your Memory: Long-form and Consistent Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.01784) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-10 | `Ctrl-World` | Ctrl-World: A Controllable Generative World Model for Robot Manipulation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.10125) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-11 | `MagicWorld` | MagicWorld: Interactive Geometry-driven Video World Exploration | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.18886) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-11 | `DiT-Mem` | Learning Plug-and-play Memory for Guiding Video Diffusion Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.19229) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-12 | `WorldPack` | WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.02473) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-12 | `OneStory` | OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.07802) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
+| 2024 | `Corgi` | Corgi: Cached Memory Guided Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://openaccess.thecvf.com/content/WACV2025/papers/Wu_Corgi_Cached_Memory_Guided_Video_Generation_WACV_2025_paper.pdf) | - |
+| 2025-04 | `RAGME` | RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.06672) | [![GitHub Stars](https://img.shields.io/github/stars/helia95/ragme?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/helia95/ragme) |
+| 2025-04 | `WorldMem` | WorldMem: Long-term Consistent World Simulation with Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.12369) | [![GitHub Stars](https://img.shields.io/github/stars/xizaoqu/WorldMem?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/xizaoqu/WorldMem) |
+| 2025-05 | `VRAG` | Learning World Models for Interactive Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.21996) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/vrag) |
+| 2025-06 | `Context-as-Memory` | Context as Memory: Scene-consistent Interactive Long Video Generation with Memory Retrieval | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.03141) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://context-as-memory.github.io) |
+| 2025-09 | `MotionRAG` | MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.26391) | [![GitHub Stars](https://img.shields.io/github/stars/MCG-NJU/MotionRAG?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/MCG-NJU/MotionRAG) |
+| 2025-10 | `Ctrl-World` | Ctrl-World: A Controllable Generative World Model for Robot Manipulation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.10125) | [![GitHub Stars](https://img.shields.io/github/stars/Robert-gyj/Ctrl-World?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Robert-gyj/Ctrl-World) |
+| 2025-11 | `MagicWorld` | MagicWorld: Interactive Geometry-driven Video World Exploration | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.18886) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vivocameraresearch.github.io/magicworld/) |
+| 2025-11 | `DiT-Mem` | Learning Plug-and-play Memory for Guiding Video Diffusion Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.19229) | [![GitHub Stars](https://img.shields.io/github/stars/Thrcle421/DiT-Mem?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Thrcle421/DiT-Mem) |
+| 2025-12 | `WorldPack` | WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.02473) | - | 
+| 2025-12 | `OneStory` | OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.07802) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zhaochongan.github.io/projects/OneStory/) |
 
 ###### Internal
 
