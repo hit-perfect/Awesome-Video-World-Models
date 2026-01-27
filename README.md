@@ -78,7 +78,12 @@ If you find this survey helpful, please cite our work:
   - [3. Evaluation](#3-evaluation)
     - [3.1 Quality](#31-quality)
     - [3.2 Persistence](#32-persistence)
+      - [Long-horizon Coherence](#long-horizon-coherence)
+      - [Memory Capacity Tasks](#memory-capacity-tasks)
     - [3.3 Causality](#33-causality)
+      - [Temporal Reasoning and Physical Validity](#temporal-reasoning-and-physical-validity)
+      - [Interventions and Evaluation](#interventions-and-evaluation)
+      - [Planning and Embodied Task Performance](#planning-and-embodied-task-performance)
 - [🌟 Acknowledgment](#-acknowledgment)
 - [✨ Star History](#-star-history)
 
@@ -265,31 +270,51 @@ If you find this survey helpful, please cite our work:
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-| 2018-12 | `FVD` | Towards Accurate Generative Models of Video: A New Metric & Challenges | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1812.01717) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2023-11 | `VBench` | VBench: Comprehensive Benchmark Suite for Video Generative Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2311.17982) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2024-07 | `FVMD` | Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.16124) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2024-11 | `VBench++` | VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.13503) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-02 | `WorldModelBench` | WorldModelBench: Judging Video Generation Models as World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.20694) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
+| 2017-06 | `FID` | GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1706.08500) | [![GitHub Stars](https://img.shields.io/github/stars/bioinf-jku/TTUR?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/bioinf-jku/TTUR) |
+| 2018-12 | `FVD` | Towards Accurate Generative Models of Video: A New Metric & Challenges | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1812.01717) | [![GitHub Stars](https://img.shields.io/github/stars/google-research/google-research?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/google-research/google-research/tree/master/frechet_video_distance) |
+| 2023-11 | `VBench` | VBench: Comprehensive Benchmark Suite for Video Generative Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2311.17982) | [![GitHub Stars](https://img.shields.io/github/stars/Vchitect/VBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Vchitect/VBench) |
+| 2024-07 | `FVMD` | Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.16124) | [![GitHub Stars](https://img.shields.io/github/stars/DSL-Lab/FVMD-frechet-video-motion-distance?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/DSL-Lab/FVMD-frechet-video-motion-distance) |
+| 2024-11 | `VBench++` | VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.13503) | [![GitHub Stars](https://img.shields.io/github/stars/Vchitect/VBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Vchitect/VBench) |
+| 2025-02 | `WorldModelBench` | WorldModelBench: Judging Video Generation Models as World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.20694) | [![GitHub Stars](https://img.shields.io/github/stars/WorldModelBench-Team/WorldModelBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/WorldModelBench-Team/WorldModelBench/tree/main?tab=readme-ov-file#evaluation) |
 
 #### 3.2 Persistence
 
+##### Long-horizon Coherence
+
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-| 2017-06 | `FID` | GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1706.08500) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2022-10 | `Memory Maze` | Evaluating Long-Term Memory in 3D Mazes | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2210.13383) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-08 | `World Consistency Score` | World Consistency Score: A Unified Metric for Video Generation Quality | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.00144) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-11 | `VR-Bench` | Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.15065) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
+| 2024-11 | `VBench++` | VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.13503) | [![GitHub Stars](https://img.shields.io/github/stars/Vchitect/VBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Vchitect/VBench) |
+
+##### Memory Capacity Tasks
+
+| Date | Name | Title | Paper | Github |
+|:-:|:-:|:-|:-:|:-:|
+| 2022-10 | `Memory Maze` | Evaluating Long-Term Memory in 3D Mazes | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2210.13383) | [![GitHub Stars](https://img.shields.io/github/stars/jurgisp/memory-maze?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/jurgisp/memory-maze) |
+| 2025-08 | `World Consistency Score` | World Consistency Score: A Unified Metric for Video Generation Quality | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.00144) | - |
+| 2025-11 | `VR-Bench` | Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.15065) | [![GitHub Stars](https://img.shields.io/github/stars/FoundationAgents/VR-Bench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/FoundationAgents/VR-Bench) |
 
 #### 3.3 Causality
 
+##### Temporal Reasoning and Physical Validity
+
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-| 2019-09 | `RLBench` | RLBench: The Robot Learning Benchmark & Learning Environment | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1909.12271) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2021-12 | `CALVIN` | CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2112.03227) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2024-06 | `ChronoMagic-Bench` | ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.18522) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2024-07 | `VideoWorld` | VideoWorld: Exploring Knowledge Learning from Unlabeled Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.06450) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-01 | `Physics-IQ` | Do Generative Video Models Understand Physical Principles? | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.09038) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
-| 2025-10 | `World-in-World` | World-in-World: World Models in a Closed-Loop World | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.18135) | [![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/username/repo) |
+| 2024-06 | `ChronoMagic-Bench` | ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.18522) | [![GitHub Stars](https://img.shields.io/github/stars/PKU-YuanGroup/ChronoMagic-Bench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) |
+| 2025-01 | `Physics-IQ` | Do Generative Video Models Understand Physical Principles? | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.09038) | [![GitHub Stars](https://img.shields.io/github/stars/google-deepmind/physics-IQ-benchmark?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/google-deepmind/physics-IQ-benchmark) |
+
+##### Interventions and Evaluation
+
+| Date | Name | Title | Paper | Github |
+|:-:|:-:|:-|:-:|:-:|
+| 2025-10 | `World-in-World` | World-in-World: World Models in a Closed-Loop World | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.18135) | [![GitHub Stars](https://img.shields.io/github/stars/World-In-World/world-in-world?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/World-In-World/world-in-world) |
+
+##### Planning and Embodied Task Performance
+
+| Date | Name | Title | Paper | Github |
+|:-:|:-:|:-|:-:|:-:|
+| 2019-09 | `RLBench` | RLBench: The Robot Learning Benchmark & Learning Environment | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/1909.12271) | [![GitHub Stars](https://img.shields.io/github/stars/stepjam/RLBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/stepjam/RLBench) |
+| 2021-12 | `CALVIN` | CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2112.03227) | [![GitHub Stars](https://img.shields.io/github/stars/mees/calvin?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/mees/calvin) |
+| 2025-01 | `VideoWorld` | VideoWorld: Exploring Knowledge Learning from Unlabeled Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.09781) | [![GitHub Stars](https://img.shields.io/github/stars/ByteDance-Seed/VideoWorld?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/ByteDance-Seed/VideoWorld) |
 
 
 ## 🌟 Acknowledgment
