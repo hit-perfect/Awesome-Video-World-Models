@@ -5,11 +5,11 @@
 ## A Mechanistic View on Video Generation as World Models: State and Dynamics
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome)
-[![Github](https://img.shields.io/badge/Awesome--State--In--World--Models-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hit-perfect/Awesome-State-In-World-Models)
+[![Github](https://img.shields.io/badge/Awesome--Video--World--Models-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hit-perfect/Awesome-Video-World-Models)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.17067-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.17067)
 <!-- [![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](paper/Memory_Survey.pdf) -->
 [![HF Papers](https://img.shields.io/badge/HF--Paper-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2601.17067)
-![Visitors](https://komarev.com/ghpvc/?username=hit-perfect&repo=Awesome-State-In-World-Models&label=Visitors&color=0e75b6&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=hit-perfect&repo=Awesome-Video-World-Models&label=Visitors&color=0e75b6&style=for-the-badge)
 
 
 </div>
@@ -323,4 +323,4 @@ We would like to express our sincere gratitude to the [Awesome-RL-for-LRMs](http
 
 ## ✨ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hit-perfect/Awesome-State-In-World-Models&type=Date)](https://www.star-history.com/#hit-perfect/Awesome-State-In-World-Models&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=hit-perfect/Awesome-Video-World-Models&type=Date)](https://www.star-history.com/#hit-perfect/Awesome-Video-World-Models&Date)
