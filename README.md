@@ -105,6 +105,8 @@ If you find this survey helpful, please cite our work:
 
 ## 📚 Paper List
 
+> Papers in each section are arranged chronologically by publication date from earliest to latest.
+
 ### 1. State
 
 #### 1.1 Implicit State - Memory Mechanism
