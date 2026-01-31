@@ -48,15 +48,11 @@ For more details, please refer to our **[paper](https://arxiv.org/abs/2601.17067
 If you find this survey helpful, please cite our work:
 
 ```bibtex
-@misc{Wang2026MechanisticVideoWorldModels,
-  title         = {A Mechanistic View on Video Generation as World Models: State and Dynamics},
-  author        = {Wang, Luozhou and Chen, Zhifei and Du, Yihua and Yan, Dongyu and Ge, Wenhang and Shen, Guibao and Xu, Xinli and Wu, Leyi and Chen, Man and Xu, Tianshuo and Ren, Peiran and Tao, Xin and Wan, Pengfei and Chen, Ying-Cong},
-  year          = {2026},
-  month         = jan,
-  eprint        = {2601.17067},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url           = {https://arxiv.org/abs/2601.17067}
+@article{wang2026mechanistic,
+  title={A Mechanistic View on Video Generation as World Models: State and Dynamics},
+  author={Wang, Luozhou and Chen, Zhifei and Du, Yihua and Yan, Dongyu and Ge, Wenhang and Shen, Guibao and Xu, Xinli and Wu, Leyi and Chen, Man and Xu, Tianshuo and others},
+  journal={arXiv preprint arXiv:2601.17067},
+  year={2026}
 }
 ```
 
