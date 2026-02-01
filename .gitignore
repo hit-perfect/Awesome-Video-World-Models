@@ -1,2 +1,4 @@
 # Ignore everything under sec/
 sec/
+
+.DS_Store
