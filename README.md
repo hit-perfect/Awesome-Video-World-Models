@@ -4,11 +4,11 @@
 
 # 😎A Mechanistic View on Video Generation as World Models: State and Dynamics😎
 
-Luozhou Wang<sup>1*</sup>, Zhifei Chen<sup>1*</sup>, Yihua Du<sup>1</sup>, Dongyu Yan<sup>1</sup>, Wenhang Ge<sup>1</sup>, Guibao Shen<sup>1</sup>, 
+[Luozhou Wang](https://wileewang.github.io/)<sup>1*</sup>, [Zhifei Chen](https://zhifeichen097.github.io/)<sup>1*</sup>, [Yihua Du](https://hit-perfect.github.io/)<sup>1</sup>, [Dongyu Yan](https://me.starydy.xyz/)<sup>1</sup>, [Wenhang Ge](https://g3956.github.io/wenhangge.github.io/)<sup>1</sup>, [Guibao Shen](https://dbbpaul.github.io/)<sup>1</sup>, 
 
-Xinli Xu<sup>1</sup>, Leyi Wu<sup>1</sup>, Man Chen<sup>1</sup>, Tianshuo Xu<sup>1</sup>, Peiran Ren<sup>2</sup>, 
+[Xinli Xu](https://scholar.google.com.sg/citations?user=lrgPuBUAAAAJ&hl=zh-CN)<sup>1</sup>, [Leyi Wu](https://yuevii.github.io/)<sup>1</sup>, [Man Chen](#)<sup>1</sup>, [Tianshuo Xu](https://scholar.google.com/citations?user=I6_dXvEAAAAJ&hl=zh-CN)<sup>1</sup>, [Peiran Ren](#)<sup>2</sup>, 
 
-Xin Tao<sup>3</sup>, Pengfei Wan<sup>3</sup>, Ying-Cong Chen<sup>1†</sup>
+[Xin Tao](https://www.xtao.website/)<sup>3</sup>, [Pengfei Wan](https://magicwpf.github.io/)<sup>3</sup>, [Ying-Cong Chen](https://www.yingcong.me/)<sup>1†</sup>
 
 <sup>1</sup>Hong Kong University of Science and Technology (Guangzhou) &nbsp;&nbsp; <sup>2</sup>Tongji University &nbsp;&nbsp; <sup>3</sup>Kling Team, Kuaishou Technology
 
@@ -24,6 +24,8 @@ Xin Tao<sup>3</sup>, Pengfei Wan<sup>3</sup>, Ying-Cong Chen<sup>1†</sup>
 </div>
 
 > 💡 **We encourage contributions!** If you come across relevant research that we haven't covered, please open an issue to let us know, and we'll do our best to include it in future updates.
+
+> 🔥 We dedicate a separate section to summarize recent **Video-World-Model** papers every 1-3 days, categorizing them into the paper list below. Community contributions are highly encouraged!
 
 ## 🤩 Overview
 
