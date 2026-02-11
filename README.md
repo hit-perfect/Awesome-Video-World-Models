@@ -68,6 +68,7 @@ If you find this survey helpful, please cite our work:
 - [📈 Citation](#-citation)
 - [🎉 News](#-news)
 - [📖 Contents](#-contents)
+- [🔥🔥🔥 Wolrd Model 🔥🔥🔥](#-wolrd-model)
 - [📚 Paper List](#-paper-list)
   - [1. State](#1-state)
     - [1.1 Implicit State - Memory Mechanism](#11-implicit-state---memory-mechanism)
@@ -100,6 +101,16 @@ If you find this survey helpful, please cite our work:
 - [🌟 Acknowledgment](#-acknowledgment)
 - [✨ Star History](#-star-history)
 
+
+## 🔥🔥🔥 Wolrd Model 🔥🔥🔥
+
+> This section highlights representative **World-Model** works. Please feel free to submit PRs to extend the list.
+
+| Date | Name | Title | Paper | Github | Institution |
+|:-:|:-:|:-|:-:|:-:|:-:|
+| 2026-01 | `LingBot-World` | Advancing Open-source World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.20540) | [![GitHub Stars](https://img.shields.io/github/stars/robbyant/lingbot-world?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/robbyant/lingbot-world) | Robbyant Team |
+| 2025-12 | `HY-World 1.5 (WorldPlay)` | HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf) | [![GitHub Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-WorldPlay?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/Tencent-Hunyuan/HY-WorldPlay) | Tencent Hunyuan |
+| 2026 | `Genie 3` | Genie 3 | - | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepmind.google/models/genie/) | Google DeepMind |
 
 ## 📚 Paper List
 
