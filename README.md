@@ -276,6 +276,8 @@ If you find this survey helpful, please cite our work:
 | 2025-12 | `Resampling Forcing` | End-to-End Training for Autoregressive Video Diffusion via Self-Resampling | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.15702) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guoyww.github.io/projects/resampling-forcing/) |
 | 2026-02 | `Causal Forcing` | Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.02214) | [![GitHub Stars](https://img.shields.io/github/stars/thu-ml/Causal-Forcing?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/thu-ml/Causal-Forcing) |
 | 2026-02 | `LIVE` | LIVE: Long-horizon Interactive Video World Modeling | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.03747) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://junchao-cs.github.io/LIVE-demo/) |
+| 2026-03 | `Helios` | Helios: Real Real-Time Long Video Generation Model | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.04379) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pku-yuangroup.github.io/Helios-Page/) |
+
 
 #### 2.2 Causal Knowledge Integration
 
