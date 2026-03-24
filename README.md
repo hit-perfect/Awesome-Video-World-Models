@@ -141,6 +141,7 @@ If you find this survey helpful, please cite our work:
 | 2025-02 | `SVG` | Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.01776) | [![GitHub Stars](https://img.shields.io/github/stars/svg-project/Sparse-VideoGen?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/svg-project/Sparse-VideoGen) |
 | 2026-02 | `Fast AR Video` | Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.01801) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvirsamuel.github.io/fast-auto-regressive-video/) |
 | 2026-02 | `Infinite-World` | Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.02393) | [![GitHub Stars](https://img.shields.io/github/stars/MeiGen-AI/Infinite-World?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/MeiGen-AI/Infinite-World) |
+| 2026-03 | `WorldCache` | WorldCache: Content-Aware Caching for Accelerated Video World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.22286) | [![GitHub Stars](https://img.shields.io/github/stars/umair1221/WorldCache?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/umair1221/WorldCache) |
 
 ###### Static Compression
 
@@ -314,6 +315,7 @@ If you find this survey helpful, please cite our work:
 | 2026-03 | `SPIRAL` | SPIRAL: A Closed-Loop Framework for Self-Improving Action World Models via Reflective Planning Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.08403) | - |
 | 2026-03 | `Chain of Causal Thought` | Chain of Causal Thought for Physically Plausible Video Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.09094) | - |
 | 2026-03 | `EVA` | EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.17808) | [![GitHub Stars](https://img.shields.io/github/stars/RobbinW/EVA?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/RobbinW/EVA) |
+| 2026-03 | `ThinkJEPA` | ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.22281) | - |
 
 
 ### 3. Evaluation
@@ -366,6 +368,7 @@ If you find this survey helpful, please cite our work:
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
 | 2025-10 | `World-in-World` | World-in-World: World Models in a Closed-Loop World | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.18135) | [![GitHub Stars](https://img.shields.io/github/stars/World-In-World/world-in-world?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/World-In-World/world-in-world) |
+| 2026-03 | `Omni-WorldBench` | Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.22212) | [![GitHub Stars](https://img.shields.io/github/stars/AMAP-ML/Omni-WorldBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/AMAP-ML/Omni-WorldBench) |
 
 ##### Planning and Embodied Task Performance
 
