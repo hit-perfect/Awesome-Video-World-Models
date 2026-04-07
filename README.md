@@ -353,7 +353,6 @@ If you find this survey helpful, please cite our work:
 | 2025-11 | `VR-Bench` | Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.15065) | [![GitHub Stars](https://img.shields.io/github/stars/FoundationAgents/VR-Bench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/FoundationAgents/VR-Bench) |
 | 2026-02 | `MIND` | MIND: Benchmarking Memory Consistency and Action Control in World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.08025) | [![GitHub Stars](https://img.shields.io/github/stars/CSU-JPG/MIND?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/CSU-JPG/MIND) |
 | 2026-03 | `LiveWorld` | LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.07145) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zichengduan.github.io/LiveWorld/index.html) |
-| 2026-03 | `STEVO-Bench` | STEVO-Bench: Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.13215) | - |
 
 #### 3.3 Causality
 
@@ -372,6 +371,7 @@ If you find this survey helpful, please cite our work:
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
 | 2025-10 | `World-in-World` | World-in-World: World Models in a Closed-Loop World | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.18135) | [![GitHub Stars](https://img.shields.io/github/stars/World-In-World/world-in-world?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/World-In-World/world-in-world) |
+| 2026-03 | `STEVO-Bench` | STEVO-Bench: Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.13215) | [![Project](https://img.shields.io/badge/Project-9cf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://glab-caltech.github.io/STEVOBench/) |
 | 2026-03 | `Omni-WorldBench` | Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.22212) | [![GitHub Stars](https://img.shields.io/github/stars/AMAP-ML/Omni-WorldBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/AMAP-ML/Omni-WorldBench) |
 
 ##### Planning and Embodied Task Performance
